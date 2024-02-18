@@ -1,0 +1,2 @@
+**Shared Libraries**
+Jenkins Shared Libraries allow you to define external reusable code that can be utilized across multiple Jenkins pipelines. This promotes code reuse, maintainability, and consistency in your Jenkins Pipeline scripts. Shared Libraries are written in Groovy and can include functions, variables, and classes.
